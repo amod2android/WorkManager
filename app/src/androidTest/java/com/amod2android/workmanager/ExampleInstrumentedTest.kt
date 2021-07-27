@@ -1,4 +1,4 @@
-package com.indianic.workmanager
+package com.amod2android.workmanager
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

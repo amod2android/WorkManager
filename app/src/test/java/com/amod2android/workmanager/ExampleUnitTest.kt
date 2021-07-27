@@ -1,4 +1,4 @@
-package com.indianic.workmanager
+package com.amod2android.workmanager
 
 import org.junit.Test
 

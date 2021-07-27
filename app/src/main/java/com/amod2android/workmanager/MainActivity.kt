@@ -1,4 +1,4 @@
-package com.indianic.workmanager
+package com.amod2android.workmanager
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
